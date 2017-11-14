@@ -1,0 +1,441 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "myCell"
+provides-nominal:
+- "8NewsDemo6myCellC"
+provides-member:
+- ["8NewsDemo6myCellC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "CGRect"
+- "NSCoder"
+- !private "NSTextAlignment"
+- "String"
+- !private "UIFont"
+- "UITableViewCell"
+- "UITableViewCellStyle"
+- "myCell"
+depends-member:
+- !private ["So15CALayerDelegateP", "CGRect"]
+- !private ["So15CALayerDelegateP", "NSTextAlignment"]
+- !private ["So15CALayerDelegateP", "UIFont"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "font"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "imageView"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "textAlignment"]
+- !private ["So15CALayerDelegateP", "textLabel"]
+- ["So15CALayerDelegateP", ""]
+- !private ["SC6CGRectV", "init"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "NSTextAlignment"]
+- !private ["s7CVarArgP", "UIFont"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "boldSystemFont"]
+- !private ["s7CVarArgP", "font"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "textAlignment"]
+- !private ["s7CVarArgP", "textLabel"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "NSTextAlignment"]
+- !private ["s28CustomDebugStringConvertibleP", "UIFont"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "boldSystemFont"]
+- !private ["s28CustomDebugStringConvertibleP", "font"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "textAlignment"]
+- !private ["s28CustomDebugStringConvertibleP", "textLabel"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "NSTextAlignment"]
+- !private ["s23CustomStringConvertibleP", "UIFont"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "boldSystemFont"]
+- !private ["s23CustomStringConvertibleP", "font"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "textAlignment"]
+- !private ["s23CustomStringConvertibleP", "textLabel"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "CGRect"]
+- !private ["s9EquatableP", "NSTextAlignment"]
+- !private ["s9EquatableP", "UIFont"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "boldSystemFont"]
+- !private ["s9EquatableP", "font"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "imageView"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "left"]
+- !private ["s9EquatableP", "textAlignment"]
+- !private ["s9EquatableP", "textLabel"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "NSTextAlignment"]
+- !private ["s8HashableP", "UIFont"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "boldSystemFont"]
+- !private ["s8HashableP", "font"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "imageView"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "left"]
+- !private ["s8HashableP", "textAlignment"]
+- !private ["s8HashableP", "textLabel"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "NSTextAlignment"]
+- !private ["So8NSCodingP", "UIFont"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "font"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "textAlignment"]
+- !private ["So8NSCodingP", "textLabel"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "boldSystemFont"]
+- !private ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "NSTextAlignment"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIFont"]
+- ["So8NSObjectC", "UITableViewCellStyle"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "boldSystemFont"]
+- !private ["So8NSObjectC", "font"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "textAlignment"]
+- !private ["So8NSObjectC", "textLabel"]
+- !private ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "NSTextAlignment"]
+- !private ["So16NSObjectProtocolP", "UIFont"]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "boldSystemFont"]
+- !private ["So16NSObjectProtocolP", "font"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "imageView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "textAlignment"]
+- !private ["So16NSObjectProtocolP", "textLabel"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["SC15NSTextAlignmentO", "left"]
+- !private ["s16RawRepresentableP", "left"]
+- !private ["So29UIAccessibilityIdentificationP", "CGRect"]
+- !private ["So29UIAccessibilityIdentificationP", "NSTextAlignment"]
+- !private ["So29UIAccessibilityIdentificationP", "UIFont"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "font"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "imageView"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "textAlignment"]
+- !private ["So29UIAccessibilityIdentificationP", "textLabel"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So12UIAppearanceP", "CGRect"]
+- !private ["So12UIAppearanceP", "NSTextAlignment"]
+- !private ["So12UIAppearanceP", "UIFont"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "font"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "imageView"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "textAlignment"]
+- !private ["So12UIAppearanceP", "textLabel"]
+- ["So12UIAppearanceP", ""]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "NSTextAlignment"]
+- !private ["So21UIAppearanceContainerP", "UIFont"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "font"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "textAlignment"]
+- !private ["So21UIAppearanceContainerP", "textLabel"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "font"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "frame"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textAlignment"]
+- !private ["So17UICoordinateSpaceP", "CGRect"]
+- !private ["So17UICoordinateSpaceP", "NSTextAlignment"]
+- !private ["So17UICoordinateSpaceP", "UIFont"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "font"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "imageView"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "textAlignment"]
+- !private ["So17UICoordinateSpaceP", "textLabel"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So13UIDynamicItemP", "CGRect"]
+- !private ["So13UIDynamicItemP", "NSTextAlignment"]
+- !private ["So13UIDynamicItemP", "UIFont"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "font"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "imageView"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "textAlignment"]
+- !private ["So13UIDynamicItemP", "textLabel"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "NSTextAlignment"]
+- !private ["So18UIFocusEnvironmentP", "UIFont"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "font"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "textAlignment"]
+- !private ["So18UIFocusEnvironmentP", "textLabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "CGRect"]
+- !private ["So11UIFocusItemP", "NSTextAlignment"]
+- !private ["So11UIFocusItemP", "UIFont"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "font"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "imageView"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "textAlignment"]
+- !private ["So11UIFocusItemP", "textLabel"]
+- ["So11UIFocusItemP", ""]
+- !private ["So6UIFontC", "boldSystemFont"]
+- !private ["So27UIGestureRecognizerDelegateP", "CGRect"]
+- !private ["So27UIGestureRecognizerDelegateP", "NSTextAlignment"]
+- !private ["So27UIGestureRecognizerDelegateP", "UIFont"]
+- !private ["So27UIGestureRecognizerDelegateP", "addSubview"]
+- !private ["So27UIGestureRecognizerDelegateP", "imageView"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "textLabel"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So7UILabelC", "font"]
+- !private ["So7UILabelC", "frame"]
+- !private ["So7UILabelC", "textAlignment"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSTextAlignment"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIFont"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "font"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "textAlignment"]
+- !private ["So30UIPasteConfigurationSupportingP", "textLabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- !private ["So11UIResponderC", "NSTextAlignment"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIFont"]
+- ["So11UIResponderC", "UITableViewCellStyle"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "font"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "textAlignment"]
+- !private ["So11UIResponderC", "textLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "NSTextAlignment"]
+- !private ["So30UIResponderStandardEditActionsP", "UIFont"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "font"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "textAlignment"]
+- !private ["So30UIResponderStandardEditActionsP", "textLabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So15UITableViewCellC", "CGRect"]
+- ["So15UITableViewCellC", "NSCoder"]
+- !private ["So15UITableViewCellC", "NSTextAlignment"]
+- ["So15UITableViewCellC", "String"]
+- !private ["So15UITableViewCellC", "UIFont"]
+- ["So15UITableViewCellC", "UITableViewCellStyle"]
+- !private ["So15UITableViewCellC", "addSubview"]
+- !private ["So15UITableViewCellC", "imageView"]
+- ["So15UITableViewCellC", "init"]
+- !private ["So15UITableViewCellC", "textLabel"]
+- ["So15UITableViewCellC", ""]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "NSTextAlignment"]
+- !private ["So18UITraitEnvironmentP", "UIFont"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "font"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "textAlignment"]
+- !private ["So18UITraitEnvironmentP", "textLabel"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- !private ["So6UIViewC", "NSTextAlignment"]
+- ["So6UIViewC", "String"]
+- !private ["So6UIViewC", "UIFont"]
+- ["So6UIViewC", "UITableViewCellStyle"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "font"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "imageView"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "textAlignment"]
+- !private ["So6UIViewC", "textLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGRect"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "NSTextAlignment"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIFont"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "font"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textAlignment"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textLabel"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSTextAlignment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIFont"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "boldSystemFont"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "font"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textAlignment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textLabel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["8NewsDemo6myCellC", "CGRect"]
+- ["8NewsDemo6myCellC", "NSCoder"]
+- !private ["8NewsDemo6myCellC", "NSTextAlignment"]
+- ["8NewsDemo6myCellC", "String"]
+- !private ["8NewsDemo6myCellC", "UIFont"]
+- ["8NewsDemo6myCellC", "UITableViewCellStyle"]
+- !private ["8NewsDemo6myCellC", "addSubview"]
+- ["8NewsDemo6myCellC", "deinit"]
+- !private ["8NewsDemo6myCellC", "imageView"]
+- ["8NewsDemo6myCellC", "init"]
+- !private ["8NewsDemo6myCellC", "textLabel"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "SC15NSTextAlignmentO"
+- !private "s16RawRepresentableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- !private "So6UIFontC"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "8NewsDemo6myCellC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/NSBundle+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "19347e9174c439696e4a51ff28cd58a1"

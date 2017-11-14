@@ -1,0 +1,181 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "8NewsDemo14ViewControllerC"
+provides-member:
+- ["8NewsDemo14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+depends-top-level:
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["8NewsDemo14ViewControllerC", "deinit"]
+- ["8NewsDemo14ViewControllerC", "didReceiveMemoryWarning"]
+- ["8NewsDemo14ViewControllerC", "init"]
+- ["8NewsDemo14ViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So16UIViewControllerC"
+- "8NewsDemo14ViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/NSBundle+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "b870e204a2c3fd0a49b32776a7d4f703"

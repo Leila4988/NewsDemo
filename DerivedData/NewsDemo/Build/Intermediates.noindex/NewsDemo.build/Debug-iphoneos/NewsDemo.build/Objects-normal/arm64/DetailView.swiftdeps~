@@ -1,0 +1,580 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DetailView"
+provides-nominal:
+- "8NewsDemo10DetailViewC"
+provides-member:
+- ["8NewsDemo10DetailViewC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+depends-top-level:
+- !private "Alamofire"
+- "AssignmentPrecedence"
+- !private "CGRect"
+- !private "CastingPrecedence"
+- "DetailView"
+- "Dictionary"
+- "String"
+- "StringLiteralType"
+- "UIViewController"
+- "UIWebView"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "loadHTMLString"]
+- !private ["SC6CGRectV", "init"]
+- !private ["SC6CGRectV", "size"]
+- !private ["SC6CGSizeV", "height"]
+- !private ["SC6CGSizeV", "width"]
+- !private ["s7CVarArgP", "Alamofire"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "UIWebView"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "content"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "frame"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "loadHTMLString"]
+- !private ["s7CVarArgP", "myUrl"]
+- !private ["s7CVarArgP", "news"]
+- !private ["s7CVarArgP", "newsDetailView"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Alamofire"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "UIWebView"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "content"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "loadHTMLString"]
+- !private ["s28CustomDebugStringConvertibleP", "myUrl"]
+- !private ["s28CustomDebugStringConvertibleP", "news"]
+- !private ["s28CustomDebugStringConvertibleP", "newsDetailView"]
+- !private ["s28CustomDebugStringConvertibleP", "responseJSON"]
+- !private ["s28CustomDebugStringConvertibleP", "result"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "height"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "Alamofire"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "UIWebView"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "content"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "loadHTMLString"]
+- !private ["s23CustomStringConvertibleP", "myUrl"]
+- !private ["s23CustomStringConvertibleP", "news"]
+- !private ["s23CustomStringConvertibleP", "newsDetailView"]
+- !private ["s23CustomStringConvertibleP", "responseJSON"]
+- !private ["s23CustomStringConvertibleP", "result"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["9Alamofire11DataRequestC", "responseJSON"]
+- !private ["9Alamofire12DataResponseV", "result"]
+- !private ["s9DecodableP", "height"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "size"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "width"]
+- !private ["8NewsDemo10DetailViewC", "Alamofire"]
+- !private ["8NewsDemo10DetailViewC", "CGRect"]
+- ["8NewsDemo10DetailViewC", "Dictionary"]
+- ["8NewsDemo10DetailViewC", "String"]
+- ["8NewsDemo10DetailViewC", "UIWebView"]
+- ["8NewsDemo10DetailViewC", "content"]
+- ["8NewsDemo10DetailViewC", "deinit"]
+- ["8NewsDemo10DetailViewC", "didReceiveMemoryWarning"]
+- ["8NewsDemo10DetailViewC", "init"]
+- ["8NewsDemo10DetailViewC", "myUrl"]
+- ["8NewsDemo10DetailViewC", "news"]
+- ["8NewsDemo10DetailViewC", "newsDetailView"]
+- !private ["8NewsDemo10DetailViewC", "view"]
+- ["8NewsDemo10DetailViewC", "viewDidLoad"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "height"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "size"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EquatableP", "Alamofire"]
+- !private ["s9EquatableP", "CGRect"]
+- !private ["s9EquatableP", "UIWebView"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "content"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "height"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "loadHTMLString"]
+- !private ["s9EquatableP", "myUrl"]
+- !private ["s9EquatableP", "news"]
+- !private ["s9EquatableP", "newsDetailView"]
+- !private ["s9EquatableP", "size"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "width"]
+- ["s9EquatableP", ""]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "Alamofire"]
+- !private ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "UIWebView"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "content"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "frame"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "loadHTMLString"]
+- !private ["s8HashableP", "myUrl"]
+- !private ["s8HashableP", "news"]
+- !private ["s8HashableP", "newsDetailView"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Alamofire"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "UIWebView"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "content"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "frame"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "loadHTMLString"]
+- !private ["So8NSCodingP", "myUrl"]
+- !private ["So8NSCodingP", "news"]
+- !private ["So8NSCodingP", "newsDetailView"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Alamofire"]
+- !private ["So26NSExtensionRequestHandlingP", "CGRect"]
+- !private ["So26NSExtensionRequestHandlingP", "UIWebView"]
+- !private ["So26NSExtensionRequestHandlingP", "content"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "myUrl"]
+- !private ["So26NSExtensionRequestHandlingP", "news"]
+- !private ["So26NSExtensionRequestHandlingP", "newsDetailView"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "Alamofire"]
+- !private ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "Dictionary"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIWebView"]
+- !private ["So8NSObjectC", "addSubview"]
+- ["So8NSObjectC", "content"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "loadHTMLString"]
+- ["So8NSObjectC", "myUrl"]
+- ["So8NSObjectC", "news"]
+- ["So8NSObjectC", "newsDetailView"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Alamofire"]
+- !private ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "UIWebView"]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "content"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "loadHTMLString"]
+- !private ["So16NSObjectProtocolP", "myUrl"]
+- !private ["So16NSObjectProtocolP", "news"]
+- !private ["So16NSObjectProtocolP", "newsDetailView"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["9Alamofire7RequestC", "responseJSON"]
+- !private ["9Alamofire8ResponseP", "result"]
+- !private ["9Alamofire6ResultO", "value"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "loadHTMLString"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "loadHTMLString"]
+- !private ["So21UIAppearanceContainerP", "Alamofire"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "UIWebView"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "content"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "loadHTMLString"]
+- !private ["So21UIAppearanceContainerP", "myUrl"]
+- !private ["So21UIAppearanceContainerP", "news"]
+- !private ["So21UIAppearanceContainerP", "newsDetailView"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "Alamofire"]
+- !private ["So18UIContentContainerP", "CGRect"]
+- !private ["So18UIContentContainerP", "UIWebView"]
+- !private ["So18UIContentContainerP", "content"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "myUrl"]
+- !private ["So18UIContentContainerP", "news"]
+- !private ["So18UIContentContainerP", "newsDetailView"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "loadHTMLString"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "loadHTMLString"]
+- !private ["So18UIFocusEnvironmentP", "Alamofire"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "UIWebView"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "content"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "loadHTMLString"]
+- !private ["So18UIFocusEnvironmentP", "myUrl"]
+- !private ["So18UIFocusEnvironmentP", "news"]
+- !private ["So18UIFocusEnvironmentP", "newsDetailView"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "loadHTMLString"]
+- !private ["So30UIPasteConfigurationSupportingP", "Alamofire"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIWebView"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "content"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "loadHTMLString"]
+- !private ["So30UIPasteConfigurationSupportingP", "myUrl"]
+- !private ["So30UIPasteConfigurationSupportingP", "news"]
+- !private ["So30UIPasteConfigurationSupportingP", "newsDetailView"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "Alamofire"]
+- !private ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "Dictionary"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIWebView"]
+- !private ["So11UIResponderC", "addSubview"]
+- ["So11UIResponderC", "content"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "loadHTMLString"]
+- ["So11UIResponderC", "myUrl"]
+- ["So11UIResponderC", "news"]
+- ["So11UIResponderC", "newsDetailView"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Alamofire"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "UIWebView"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "content"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "loadHTMLString"]
+- !private ["So30UIResponderStandardEditActionsP", "myUrl"]
+- !private ["So30UIResponderStandardEditActionsP", "news"]
+- !private ["So30UIResponderStandardEditActionsP", "newsDetailView"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "loadHTMLString"]
+- !private ["So16UIStateRestoringP", "Alamofire"]
+- !private ["So16UIStateRestoringP", "CGRect"]
+- !private ["So16UIStateRestoringP", "UIWebView"]
+- !private ["So16UIStateRestoringP", "content"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "myUrl"]
+- !private ["So16UIStateRestoringP", "news"]
+- !private ["So16UIStateRestoringP", "newsDetailView"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "Alamofire"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "UIWebView"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "content"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "loadHTMLString"]
+- !private ["So18UITraitEnvironmentP", "myUrl"]
+- !private ["So18UITraitEnvironmentP", "news"]
+- !private ["So18UITraitEnvironmentP", "newsDetailView"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "loadHTMLString"]
+- !private ["So16UIViewControllerC", "Alamofire"]
+- !private ["So16UIViewControllerC", "CGRect"]
+- ["So16UIViewControllerC", "Dictionary"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIWebView"]
+- ["So16UIViewControllerC", "content"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "myUrl"]
+- ["So16UIViewControllerC", "news"]
+- ["So16UIViewControllerC", "newsDetailView"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["So9UIWebViewC", "init"]
+- !private ["So9UIWebViewC", "loadHTMLString"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "loadHTMLString"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "subscript"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Alamofire"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIWebView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "content"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadHTMLString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "myUrl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "news"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "newsDetailView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "9Alamofire11DataRequestC"
+- !private "9Alamofire12DataResponseV"
+- "s9DecodableP"
+- "8NewsDemo10DetailViewC"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "s26RangeReplaceableCollectionP"
+- !private "9Alamofire7RequestC"
+- !private "9Alamofire8ResponseP"
+- !private "9Alamofire6ResultO"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So9UIWebViewC"
+- "9Alamofire14URLConvertibleP"
+- "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/NSBundle+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Zhongli/Desktop/NewsDemo/DerivedData/NewsDemo/Build/Products/Debug-iphoneos/MJRefresh/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "1cdfee5426be7a84e099c0384a9f1251"

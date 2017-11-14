@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "b5dc637be5df9b2c874dde40bb71fde4"
+build_time: [1510581661, 99202000]
+inputs:
+  "/Users/Zhongli/Desktop/NewsDemo/NewsDemo/ViewController.swift": [1510404950, 0]
+  "/Users/Zhongli/Desktop/NewsDemo/NewsDemo/AppDelegate.swift": [1510576501, 0]
+  "/Users/Zhongli/Desktop/NewsDemo/NewsDemo/myCell.swift": [1510492043, 0]
+  "/Users/Zhongli/Desktop/NewsDemo/NewsDemo/FirstView.swift": [1510581660, 0]
+  "/Users/Zhongli/Desktop/NewsDemo/NewsDemo/DetailView.swift": [1510581062, 0]
